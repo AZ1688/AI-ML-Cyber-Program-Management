@@ -23,3 +23,5 @@ Process - COBIT, ITIL, process/procedure document, flowchart, team chart, proces
 Technology - restructure like puzzel, appsolite, vendors
 
 a policy document - file property, document layout, topic summary, words/sentences stats to control, category, document classification,  
+
+HITL, RPA, No/Low Code, Recommendation Engine 
