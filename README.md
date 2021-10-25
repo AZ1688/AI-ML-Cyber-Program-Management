@@ -1,5 +1,12 @@
 # AI/ML in Cyber Program Management
 
+# Features 
+  - help the organizations to with perspetives at different level of view - 100K, 50K, 5000, etc
+  - help CISO for acountability, strategy, operations and projects, progress, metrics
+  - help program managers with choices, recommendations, etc
+  - help analysis with literature (search, summary, ranking), data recipes, workflow refinement, automate artifact collections
+  - cognitive, context aware, semi-automation, recipes, results oriented
+  -  
 # Cyber Security Program
 
   - CISO Mindmap https://rafeeqrehman.com/2021/07/11/ciso-mindmap-2021-what-do-infosec-professionals-really-do/
