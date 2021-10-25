@@ -5,8 +5,8 @@
   - help CISO for acountability, strategy, operations and projects, progress, metrics
   - help program managers with choices, recommendations, etc
   - help analysis with literature (search, summary, ranking), data recipes, workflow refinement, automate artifact collections
-  - cognitive, context aware, semi-automation, recipes, results oriented
-  -  
+  - context aware, adapative to changes, semi-automation, cognitive (situaton awareness and self learning), recipes, results oriented, values (to all in the chain) 
+  
 # Cyber Security Program
 
   - CISO Mindmap https://rafeeqrehman.com/2021/07/11/ciso-mindmap-2021-what-do-infosec-professionals-really-do/
@@ -36,6 +36,9 @@
   - People - organization chart, s/p professional teams, skillsets, RACI, Job definition, training, simulations
   - Process - COBIT, ITIL, process/procedure document, flowchart, team chart, process stats, email mining
   - Technology - restructure like puzzel, appsolite, vendors
+     - cyber security tools landscape
+     - each vendor's position in value chain or attack chain
+     - sample: top 20 open source tools for blue teams, DFIR too chain, developer tool chain (IDE languge or platform) 
 
 # Sample Use Cases
   - Review a policy document - file property, cluster of documents correlate to framework, document layout, document classification (mapping to control), topic summary,    words counts to ontology,  sentences breackdown and mapping to controls
@@ -44,4 +47,9 @@
   
 
 # Core Technology 
-  - HITL, RPA, No/Low Code, Recommendation Engine 
+  - HITL, 
+  - RPA: 
+     -  salesforce lighting flow, process automation, predict with einstein discovery
+  - No/Low Code, 
+  - Recommendation Engine 
+  - cloud native, app composability
