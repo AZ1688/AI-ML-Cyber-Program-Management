@@ -21,9 +21,12 @@
   - Implementation Engine - artifacts/data collected during or after implementation 
 
 # Data Processing 
-  - Image/ Video - vendor demos, tools screenshots, 
-  - Documents - NLP - AWS Textract, MonkeyLearn, Diffbot, OpenAI
-  - Structured data - AWS dataprep / OpenRefine 
+  - Image/ Video 
+    - vendor demos, tools screenshots
+  - Documents - NLP 
+    - AWS Textract, MonkeyLearn, Diffbot, OpenAI
+  - Structured data 
+    - AWS dataprep / OpenRefine 
 
 # Data Storage
   - Databases - documentDB, timeseries Casandra, Facebook NeuralDB, KowledgeGraph - tigergraph
@@ -40,7 +43,8 @@
   - Process 
     - COBIT, ITIL, ISO NIST and other frameworks, UCF
     - process/procedure document, flowchart, team chart, process stats, email mining
-  - Technology - restructure like puzzel, appsolite, vendors
+  - Technology 
+     - restructure like puzzel, appsolite, vendors
      - cyber security tools landscape
      - each vendor's position in value chain or attack chain
      - samples
@@ -49,13 +53,27 @@
        -  data analytics tool chain
 
 # Sample Use Cases
-  - Review a policy document - file property, cluster of documents correlate to framework, document layout, document classification (mapping to control), topic summary,    words counts to ontology,  sentences breackdown and mapping to controls
-  - Review a cluster of documents - 20+ elements (revision history, approval, dates, etc), compliant with X framework, missed    policy requirements
-  - Review SOC2 / Questionaire - convert documents to data tables, list of controls/pratices/results, gaps/findings/recommendations, compare across vendors 
+  - Review a policy document 
+    - file property, cluster of documents correlate to framework, document layout, 
+    - document classification (mapping to control), topic summary,    
+    - words counts to ontology,  sentences breackdown and mapping to controls
+  - Review a cluster of documents 
+    - 20+ elements (revision history, approval, dates, etc), 
+    - compliant with X framework, missed    
+    - policy to process/procedures or requirements
+    - policy coded/enforced at technical control level
+  - Review SOC2 / Questionaire 
+    - convert documents to data tables
+    - list of controls/pratices/results
+    - gaps/findings/recommendations
+    - compare across vendors 
   
 
 # Core Technology 
-  - HITL, 
+  - HITL human in the loop AI
+    - with advisors from consulting firms
+    - practicians (your teams)
+    - QA knoweledge engine
   - RPA: 
      -  salesforce lighting flow, process automation, predict with einstein discovery
   - No/Low Code, 
