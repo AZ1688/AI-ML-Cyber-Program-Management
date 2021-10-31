@@ -7,30 +7,11 @@
   - help analysis with literature (search, summary, ranking), data recipes, workflow refinement, automate artifact collections
   - context aware, adapative to changes, semi-automation, cognitive (situaton awareness and self learning), recipes, results oriented, values (to all in the chain) 
   
-# Cyber Security Program
+# Program Structure
 
   - SANS CISO Mindmap https://sansorg.egnyte.com/dl/p6YbmrhJy6 
   - CISO Mindmap https://rafeeqrehman.com/2021/07/11/ciso-mindmap-2021-what-do-infosec-professionals-really-do/
    - Domains/Areas/Functions security frameworks, regulations, etc
-
-# Program by AI/ML Ops
-  - Context/Data (Cleansing Recipes) - 
-  - Analytical Engine (HITL) - 
-  - Recommendation Engine (target, what-if, choices, expert advices) - data from known trusted curated contents, relavent to the context,
-  - Decision Engine - 
-  - Implementation Engine - artifacts/data collected during or after implementation 
-
-# Data Processing 
-  - Image/ Video 
-    - vendor demos, tools screenshots
-  - Documents - NLP 
-    - AWS Textract, MonkeyLearn, Diffbot, OpenAI
-  - Structured data 
-    - AWS dataprep / OpenRefine 
-
-# Data Storage
-  - Databases - documentDB, timeseries Casandra, Facebook NeuralDB, KowledgeGraph - tigergraph
-  - Cloud Data Storage 
 
 # Performance Management 
   - TRUSTAPP
@@ -51,6 +32,35 @@
        - top 20 open source tools for blue teams, DFIR too chain,
        -  developer tool chain (IDE languge or platform) 
        -  data analytics tool chain
+
+# Data Storage
+  - Databases 
+    - documentDB, 
+    - timeseries Casandra, 
+    - Facebook NeuralDB (unstructured to structured),
+    - KowledgeGraph - tigergraph
+  - Cloud Data Storage 
+    - data lake, catalog, etc
+
+# Data Processing 
+  - Image/ Video 
+    - vendor demos, tools screenshots
+  - Documents - NLP 
+    - AWS Textract, MonkeyLearn, Diffbot, OpenAI
+    - MRC ( machine reading comprehension) 
+    - ICAA (Intelligent Context Aware Agent)
+  - Structured data 
+    - AWS dataprep / OpenRefine 
+
+# By AI/ML Ops
+  - Context/Data (Cleansing Recipes)
+  - Analytical Engine (HITL)
+  - Recommendation Engine 
+    - (target, what-if, choices, expert advices) 
+    - data from known trusted curated contents, relavent to the context,
+  - Decision Engine - 
+  - Implementation Engine 
+    - artifacts/data collected during or after implementation 
 
 # Sample Use Cases
   - Review a policy document 
@@ -76,6 +86,6 @@
     - QA knoweledge engine
   - RPA: 
      -  salesforce lighting flow, process automation, predict with einstein discovery
-  - No/Low Code, 
+  - No/Low Code
   - Recommendation Engine 
   - cloud native, app composability
