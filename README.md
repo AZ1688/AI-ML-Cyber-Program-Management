@@ -78,7 +78,7 @@
     - with advisors from consulting firms
     - practicians (your teams)
     - QA knoweledge engine
-  - RPA: 
+  - RPA Robotic Processing Automation
      -  salesforce lighting flow, process automation, predict with einstein discovery
   - No/Low Code
   - Recommendation Engine 
