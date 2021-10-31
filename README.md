@@ -1,12 +1,6 @@
 # AI/ML in Cyber Program Management
 
-# Features 
-  - help the organizations to with perspetives at different level of view - 100K, 50K, 5000, etc
-  - help CISO for acountability, strategy, operations and projects, progress, metrics
-  - help program managers with choices, recommendations, etc
-  - help analysis with literature (search, summary, ranking), data recipes, workflow refinement, automate artifact collections
-  - context aware, adapative to changes, semi-automation, cognitive (situaton awareness and self learning), recipes, results oriented, values (to all in the chain) 
-  
+ 
 # Program Structure
 
   - SANS CISO Mindmap https://sansorg.egnyte.com/dl/p6YbmrhJy6 
@@ -89,3 +83,10 @@
   - No/Low Code
   - Recommendation Engine 
   - cloud native, app composability
+
+# Features 
+  - help the organizations to with perspetives at different level of view - 100K, 50K, 5000, etc
+  - help CISO for acountability, strategy, operations and projects, progress, metrics
+  - help program managers with choices, recommendations, etc
+  - help analysis with literature (search, summary, ranking), data recipes, workflow refinement, automate artifact collections
+  - context aware, adapative to changes, semi-automation, cognitive (situaton awareness and self learning), recipes, results oriented, values (to all in the chain) 
