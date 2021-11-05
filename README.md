@@ -78,6 +78,7 @@
   - assess organziation strucutre and people capability
   - facility commnications - internal and with consultanting
   - aggregate publicly available data and provide context based situation awareness
+  - recommend staffing and budget based on desired goals
   
 
 # Core Technology 
