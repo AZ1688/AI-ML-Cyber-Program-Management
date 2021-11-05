@@ -23,9 +23,10 @@
      - cyber security tools landscape
      - each vendor's position in value chain or attack chain
      - samples
-       - top 20 open source tools for blue teams, DFIR too chain,
+       -  top 20 open source tools for blue teams, DFIR too chain,
        -  developer tool chain (IDE languge or platform) 
        -  data analytics tool chain
+       -  CMMC recommendations
 
 # Data Storage
   - Databases 
@@ -71,6 +72,12 @@
     - list of controls/pratices/results
     - gaps/findings/recommendations
     - compare across vendors 
+    - align responses to regulations or frameworks
+  - assess security process maturity
+  - evalute security toolchains 
+  - assess organziation strucutre and people capability
+  - facility commnications - internal and with consultanting
+  - aggregate publicly available data and provide context based situation awareness
   
 
 # Core Technology 
