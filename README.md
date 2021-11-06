@@ -15,6 +15,7 @@
   - People 
     - organization chart, s/p professional teams, skillsets
     - RACI, Job definition, training, simulations
+    - NICE, Mitre ATT&CK
   - Process 
     - COBIT, ITIL, ISO NIST and other frameworks, UCF
     - process/procedure document, flowchart, team chart, process stats, email mining
@@ -26,7 +27,7 @@
        -  top 20 open source tools for blue teams, DFIR too chain,
        -  developer tool chain (IDE languge or platform) 
        -  data analytics tool chain
-       -  CMMC recommendations
+       -  CMMC recommendations - org size
 
 # Data Storage
   - Databases 
@@ -44,6 +45,7 @@
     - AWS Textract, MonkeyLearn, Diffbot, OpenAI
     - MRC ( machine reading comprehension) 
     - ICAA (Intelligent Context Aware Agent)
+    - classifier, topic, similarity 
   - Structured data 
     - AWS dataprep / OpenRefine 
 
@@ -51,9 +53,9 @@
   - Context/Data (Cleansing Recipes)
   - Analytical Engine (HITL)
   - Recommendation Engine 
-    - (target, what-if, choices, expert advices) 
-    - data from known trusted curated contents, relavent to the context,
-  - Decision Engine - 
+    - maturity/risk target, what-if, choices, expert advices
+    - data from known trusted curated contents, relavent to the context, timely
+  - Decision Journals
   - Implementation Engine 
     - artifacts/data collected during or after implementation 
 
