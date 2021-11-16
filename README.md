@@ -100,3 +100,10 @@
   - help program managers with choices, recommendations, etc
   - help analysis with literature (search, summary, ranking), data recipes, workflow refinement, automate artifact collections
   - context aware, adapative to changes, semi-automation, cognitive (situaton awareness and self learning), recipes, results oriented, values (to all in the chain) 
+
+# Next Generation System Attributes
+  - driven by data, event, change delta, results, process, workflow, not just task
+  - human centric user experiences: know the user, guide the user, assitast the user
+  - context aware, recipes /recomendations/ choices based given corporate environment
+  - 
+  - 
