@@ -45,7 +45,7 @@
     - AWS Textract, MonkeyLearn, Diffbot, OpenAI
     - MRC ( machine reading comprehension) 
     - ICAA (Intelligent Context Aware Agent)
-    - classifier, topic, similarity 
+    - classifier, topic, similarity, grade - level of comformance, gaps, samples 
   - Structured data 
     - AWS dataprep / OpenRefine 
   - batch vs real time data
