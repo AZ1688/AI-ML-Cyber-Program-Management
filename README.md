@@ -48,6 +48,7 @@
     - classifier, topic, similarity 
   - Structured data 
     - AWS dataprep / OpenRefine 
+  - batch vs real time data
 
 # By AI/ML Ops
   - Context/Data (Cleansing Recipes)
@@ -107,4 +108,6 @@
   - context aware: recipes /recomendations/ choices based given corporate environment
   - adative to changes:internal changes, external factor changes, benchmark changes, etc
   - flexibility: toolbox for users to create subfunctions that system does not provide
+  - fluid UI: users can reorganize views and perspective with same backend
+  - model store: users can replace sample data with their data and see results right away
   
