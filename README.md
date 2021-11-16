@@ -102,8 +102,9 @@
   - context aware, adapative to changes, semi-automation, cognitive (situaton awareness and self learning), recipes, results oriented, values (to all in the chain) 
 
 # Next Generation System Attributes
-  - driven by data, event, change delta, results, process, workflow, not just task
-  - human centric user experiences: know the user, guide the user, assitast the user
-  - context aware, recipes /recomendations/ choices based given corporate environment
-  - 
-  - 
+  - multimodal drivers: by data, event, change delta, results, process, workflow, not just task
+  - human centric user experiences: know the user, guide the user, assist the user
+  - context aware: recipes /recomendations/ choices based given corporate environment
+  - adative to changes:internal changes, external factor changes, benchmark changes, etc
+  - flexibility: toolbox for users to create subfunctions that system does not provide
+  
