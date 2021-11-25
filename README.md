@@ -22,8 +22,8 @@
     - architecture framewrok: TOGAF
     - data governance framework
     - risk framework: OCTAVE, NIST 800
-    - maturity framework: CMMI, NIST CSF
-    - certification: FedRAMP, ISO, HITRUST
+    - maturity framework: CMMI, NIST CSF, CISA Zero Trust Maturity Model
+    - certification: FedRAMP, ISO, HITRUST, CMMC
     - Audit: SOC1, SOC2, security assessments, data/developer pipeline
     - process/procedure document, flowchart, team chart, process stats, email mining
   - Technology 
@@ -71,10 +71,10 @@
 
 # Platform 
   - system of accountability
-  - system of metrics
-  - system of  body of work
-  - system of tradeoffs
-  - 
+  - Body of work and shared space
+  - system of reversible decisions 
+  - system of insights and records
+  
 # Sample Use Cases
   - Review a policy document 
     - file property, cluster of documents correlate to framework, document layout, 
@@ -126,3 +126,29 @@
   - fluid UI: users can reorganize views and perspective with same backend
   - model store: users can replace sample data with their data and see results right away
   
+# References
+  - 2018 Dept of Homeland Security Cybersecurity Strategy
+  - 2019-2021 Cyber Security Strategy for Bank of Canada
+  - PrivacyOps
+  - IAPP Privacy As A Competitive Differentiator
+  - Dayblink Structuring Information Security Organization
+  - Divurgent Cybersecurity Organizational Structure and Govrenance
+  - 7 Type of Organizational Structure For Difference Scenarios
+  - How AI Changing The Way Companies Are Organized
+  - An Ontology-Based Contect Model in Intelligent Environments
+  - Using NLP Based Machine Learning to Automate Compliance and Governance
+  - Supercharge Autoamted Business Process with Einstein Discovery
+  - 6 clicks Explaining Paradigm Shift in Goverance, Risk and Compliance
+  - Artificial Intelligence and Cybersecurity: Opptorunities and Challenges
+  - CyberPosture Intelligence for the Hybrid Cloud
+  - Cyberseucirt KPI to Track + Examples
+  - Security Content Automation Protocol
+  - Baldrige Cyber Security Excellence Center
+  - Measures for Information Security
+  - MITRE Cyber Resillence Matrix, Mesuares of Effectivenss, and Scoring
+  - Top 20 Cybersecurity KPIs to Track in 2021
+  - Metrics of Security
+  - Gartner Hyper Cycle for Security operations, 2021
+  - Legal AI: An Automated Versus Autonomous Future
+  - Lauout LM: Pre-Traing of Test and Lauout For Document Imaging Understanding
+  - CyBOK: The Cybersecurity Body of Knowledge 
