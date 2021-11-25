@@ -13,11 +13,18 @@
 
 # Data Sources
   - People 
-    - organization chart, s/p professional teams, skillsets
-    - RACI, Job definition, training, simulations
+    - organization identity stores, org chart, s/p professional teams, skillsets
+    - RACI, Job description, certifications, training, simulations
     - NICE, Mitre ATT&CK
   - Process 
-    - COBIT, ITIL, ISO NIST and other frameworks, UCF
+    - program framework: ISO, NIST CSF
+    - control framework: COBIT, ITIL, HITRUST, UCF
+    - architecture framewrok: TOGAF
+    - data governance framework
+    - risk framework: OCTAVE, NIST 800
+    - maturity framework: CMMI, NIST CSF
+    - certification: FedRAMP, ISO, HITRUST
+    - Audit: SOC1, SOC2, security assessments, data/developer pipeline
     - process/procedure document, flowchart, team chart, process stats, email mining
   - Technology 
      - restructure like puzzel, appsolite, vendors
@@ -60,6 +67,14 @@
   - Implementation Engine 
     - artifacts/data collected during or after implementation 
 
+# Asset Safegurds Inteligence
+
+# Platform 
+  - system of accountability
+  - system of metrics
+  - system of  body of work
+  - system of tradeoffs
+  - 
 # Sample Use Cases
   - Review a policy document 
     - file property, cluster of documents correlate to framework, document layout, 
