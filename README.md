@@ -70,10 +70,12 @@
 # Asset Safegurds Inteligence
 
 # Platform 
+  - intelligent asset & safeguards graph 
   - system of accountability
-  - Body of work and shared space
-  - system of reversible decisions 
-  - system of insights and records
+  - system of assessment automation (gap, risk and maturity) 
+  - body of work and shared space
+  - system of insights and recommendations
+  - system of knowledge and records
   
 # Sample Use Cases
   - Review a policy document 
