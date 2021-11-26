@@ -69,7 +69,7 @@
 
 # Asset Safegurds Inteligence
 
-# Platform 
+# Cybersecurity Growth Platform 
   - intelligent asset & safeguards graph 
   - system of accountability
   - system of assessment automation (gap, risk and maturity) 
