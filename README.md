@@ -46,13 +46,14 @@
     - data lake, catalog, etc
 
 # Data Processing 
-  - Image/ Video 
+  - Image/ Video /Audio 
     - vendor demos, tools screenshots
+    - assessment recordings
   - Documents - NLP 
     - AWS Textract, MonkeyLearn, Diffbot, OpenAI
     - MRC ( machine reading comprehension) 
     - ICAA (Intelligent Context Aware Agent)
-    - classifier, topic, similarity, grade - level of comformance, gaps, samples 
+    - layout, classifier, topic, similarity, grade - level of comformance, gaps, samples 
   - Structured data 
     - AWS dataprep / OpenRefine 
   - batch vs real time data
