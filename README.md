@@ -78,6 +78,17 @@
   - system of insights and recommendations
   - system of knowledge and records
   
+# Pain Points in Enterprise
+  - assets not clearly cataloged, no criticality/no valie assigned
+  - safeguards not aligned to business and IT transformation
+  - impacts of safeguard on asset not clearly quantified 
+  - top down or  bottom up accountability for asset owner and defender not aligned
+  - tons of manual data enentry for internal audits/assessments 
+  - hard to map internal controls to supply chain vendors for equivalent or better control
+  - no continous worksstreams for cyber security 
+  - difficult to set monthly or quarterly improvement target with concret work efforts
+
+
 # Sample Use Cases
   - Review a policy document 
     - file property, cluster of documents correlate to framework, document layout, 
@@ -97,7 +108,7 @@
   - assess security process maturity
   - evalute security toolchains 
   - assess organziation strucutre and people capability
-  - facility commnications - internal and with consultanting
+  - facilitate communications - internal and with consultanting
   - aggregate publicly available data and provide context based situation awareness
   - recommend staffing and budget based on desired goals
   
