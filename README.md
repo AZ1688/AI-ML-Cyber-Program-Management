@@ -67,7 +67,7 @@
   - Implementation Engine 
     - artifacts/data collected during or after implementation 
 
-# Asset Safegurds Inteligence
+# Real Time Asset Safegurd Inteligence
 
 # Cybersecurity Growth Platform 
   - intelligent asset & safeguards graph 
