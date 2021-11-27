@@ -84,9 +84,11 @@
   - safeguards not aligned to business and IT transformation
   - impacts of safeguard on asset not clearly quantified 
   - top down or  bottom up accountability for asset owner and defender not aligned
-  - tons of manual data enentry for internal audits/assessments 
+  - tons of manual data enentry for internal/vendor/outbound audits/assessments
+  - manually mapping internal requimemts to supply chain 3rd and 4th party 
+  - difficult to validate for cyber insuance and potential crisis like ransomware 
   - hard to map internal controls to supply chain vendors for equivalent or better control
-  - no continous worksstreams for cyber security 
+  - no continous workstreams for cyber security 
   - difficult to set monthly or quarterly improvement target with concret work efforts
   - lots of projects/workstream, not continously improved or measured, no single source of truth
   - lack of vision for what are possible and what is best fit given a context
