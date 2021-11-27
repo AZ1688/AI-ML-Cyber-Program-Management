@@ -53,6 +53,7 @@
     - AWS Textract, MonkeyLearn, Diffbot, OpenAI
     - MRC ( machine reading comprehension) 
     - ICAA (Intelligent Context Aware Agent)
+    - knowledge graph
     - layout, classifier, topic, similarity, grade - level of comformance, gaps, samples 
   - Structured data 
     - AWS dataprep / OpenRefine 
@@ -68,9 +69,9 @@
   - Implementation Engine 
     - artifacts/data collected during or after implementation 
 
-# Real Time Asset Safegurd Inteligence
+# Real Time Asset Safegurd Intelligence
 
-# Cybersecurity Growth Platform 
+# Cybersecurity Command Center
   - intelligent asset & safeguards graph 
   - system of accountability
   - system of assessment automation (gap, risk and maturity) 
@@ -89,8 +90,6 @@
   - difficult to set monthly or quarterly improvement target with concret work efforts
   - lots of projects/workstream, not continously improved or measured, no single source of truth
   - lack of vision for what are possible and what is best fit given a context
- 
-
 
 # Sample Use Cases
   - Review a policy document 
