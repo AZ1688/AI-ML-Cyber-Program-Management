@@ -15,7 +15,7 @@
   - People 
     - organization identity stores, org chart, s/p professional teams, skillsets
     - RACI, Job description, certifications, training, simulations
-    - NICE, Mitre ATT&CK
+    - NICE, Mitre ATT&CK & D3FEND
   - Process 
     - program framework: ISO, NIST CSF
     - control framework: COBIT, ITIL, HITRUST, UCF
