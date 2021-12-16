@@ -1,6 +1,6 @@
 # AI/ML in Cyber Program Management
 # 6 Dimension View
-The journey of Cybersecurity Starship
+The journey of Cybersecurity Stardom
   - Cyber Resiliency Matrix 
     - asset safeguard graph
     - people data graph
