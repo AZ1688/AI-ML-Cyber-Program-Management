@@ -1,4 +1,22 @@
 # AI/ML in Cyber Program Management
+# 6 Dimension View
+The journey of Cybersecurity Starship
+  - Cyber Resiliency Matrix 
+    - asset safeguard graph
+    - people data graph
+- Business relevance
+  - ahead of business and IT
+  - side by side
+  - behind 
+- Chain of trust 
+  - 1 to Nth party supply chain
+- Global ecosystem
+  - clountry and local regulations
+  - culture norms
+- Time capsule 
+- Execution 
+  - precision, sensitivty, accuracy, recall 
+  - speed, agility, reversability 
 
  
 # Program Structure
