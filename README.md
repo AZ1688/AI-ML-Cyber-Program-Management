@@ -41,7 +41,7 @@ The Cybersecurity Puzzle Cubic
     - control framework: COBIT, ITIL, HITRUST, UCF
     - architecture framewrok: TOGAF
     - data governance framework
-    - risk framework: OCTAVE, NIST 800
+    - risk framework: OCTAVE, NIST RMF, FAIR, STRIDE
     - maturity framework: CMMI, NIST CSF, CISA Zero Trust Maturity Model
     - certification: FedRAMP, ISO, HITRUST, CMMC
     - Audit: SOC1, SOC2, security assessments, data/developer pipeline
