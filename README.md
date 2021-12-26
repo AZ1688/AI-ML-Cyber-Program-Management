@@ -1,20 +1,20 @@
 # AI/ML in Cyber Program Management
 # 6 Dimension View
 The Cybersecurity Puzzle Cubic
-  - Asset lineage 
-    - asset safeguard graph
+  - Business 
     - people data graph
-  - Safeguard lifecycle
-  - Business relevance
+  - IT
+    - asset safeguard intelligence
+  - Governance relevancy
     - ahead of business and IT
     - side by side
     - behind 
   - Chain of trust 
     - 1 to Nth party supply chain
-  - Global ecosystem
+  - Locality /Global ecosystem
     - clountry and local regulations
     - culture norms and practical solution
-  - Time capsule 
+  - Epoch /Time capsule 
   - Machine of Execution 
     - precision, sensitivty, accuracy, recall 
     - speed, agility, reversability 
