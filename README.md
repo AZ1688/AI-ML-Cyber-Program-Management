@@ -1,6 +1,6 @@
 # AI/ML in Cyber Program Management
 # 6 Dimension View
-The Cybersecurity Puzzle Cubic
+The Cybersecurity Puzzle Cubic ( LET BIG SOAR)
   - Business 
     - people data graph
   - IT
@@ -9,13 +9,13 @@ The Cybersecurity Puzzle Cubic
     - ahead of business and IT
     - side by side
     - behind 
-  - Chain of trust 
-    - 1 to Nth party supply chain
-  - Locality /Global ecosystem
+   - Locality /Global ecosystem
     - clountry and local regulations
     - culture norms and practical solution
   - Epoch /Time capsule 
-  - Machine of Execution 
+  - Trust (Supply Chain)
+    - 1 to Nth party supply chain
+  - SOAR (Sync-up, Orchestrate, Automate and Repeat) Machine of Execution 
     - precision, sensitivty, accuracy, recall 
     - speed, agility, reversability 
     - robotic automation vs manual
